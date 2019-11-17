@@ -23,6 +23,11 @@
         <module>sample-websocket</module>
         <module>stomp-websocket</module>
         <module>mq-websocket</module>
+        <module>simple-websocket-client</module>
+        <module>spring-websocket-portfolio</module>
+        <module>gs-messaging-stomp-websocket/complete</module>
+        <module>gs-messaging-stomp-websocket/initial</module>
+        <module>websocket-demo</module>
     </modules>
 
     <properties>
