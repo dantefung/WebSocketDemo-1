@@ -1,0 +1,22 @@
+
+martin:
+  websocket:
+    heartbeatAllowIntervalTime: 60000
+    heartbeatCheckIntervalTime: 61000
+    wsWaitingIntervalTime: 2
+
+server:
+  port: 9990
+  servlet:
+    context-path: /api
+
+spring:
+  http:
+    encoding:
+      force: true
+      charset: UTF-8
+      force-request: true
+      force-response: true
+  quartz:
+    properties:
+      org.quartz.threadPool.threadCount: 5

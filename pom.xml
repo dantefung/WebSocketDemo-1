@@ -25,9 +25,21 @@
         <module>mq-websocket</module>
         <module>simple-websocket-client</module>
         <module>spring-websocket-portfolio</module>
-        <module>gs-messaging-stomp-websocket/complete</module>
-        <module>gs-messaging-stomp-websocket/initial</module>
+       <!-- <module>gs-messaging-stomp-websocket/complete</module>
+        <module>gs-messaging-stomp-websocket/initial</module>-->
         <module>websocket-demo</module>
+        <module>netty-socketio-demo/server</module>
+        <module>spring-websocket-java-client-demo/spring-boot-application</module>
+        <module>spring-websocket-java-client-demo/spring-boot-java-client</module>
+        <module>im-demo-netty-tcp-websocket</module>
+        <module>JgServer</module>
+        <module>WebSocketExample/JAVA_WebSocket_Server_1/javaxwebsocketserver</module>
+        <module>WebSocketExample/JAVA_WebSocket_Client/javaxwebsocketclient</module>
+        <module>Spring-websocket</module>
+        <module>Springboot-websoket-admin</module>
+        <module>SpringbootWebSocket</module>
+        <module>Netty-quick-start/Websocket</module>
+        <module>websocket-game-demo</module>
     </modules>
 
     <properties>
