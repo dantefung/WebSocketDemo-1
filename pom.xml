@@ -24,13 +24,13 @@
         <module>stomp-websocket</module>
         <module>mq-websocket</module>
         <module>simple-websocket-client</module>
-        <module>spring-websocket-portfolio</module>
+        <!--<module>spring-websocket-portfolio</module>-->
        <!-- <module>gs-messaging-stomp-websocket/complete</module>
         <module>gs-messaging-stomp-websocket/initial</module>-->
         <module>websocket-demo</module>
         <module>netty-socketio-demo/server</module>
-        <module>spring-websocket-java-client-demo/spring-boot-application</module>
-        <module>spring-websocket-java-client-demo/spring-boot-java-client</module>
+      <!--  <module>spring-websocket-java-client-demo/spring-boot-application</module>
+        <module>spring-websocket-java-client-demo/spring-boot-java-client</module>-->
         <module>im-demo-netty-tcp-websocket</module>
         <module>JgServer</module>
         <module>WebSocketExample/JAVA_WebSocket_Server_1/javaxwebsocketserver</module>
@@ -40,6 +40,14 @@
         <module>SpringbootWebSocket</module>
         <module>Netty-quick-start/Websocket</module>
         <module>websocket-game-demo</module>
+        <module>netty-websocket</module>
+        <module>TomcatWebSocket</module>
+        <module>WebSocketChat</module>
+        <module>SpringWebSocket</module>
+        <module>FreeWebChat</module>
+        <module>redisSubdemo</module>
+        <module>websocket-cluster</module>
+        <module>spring_boot</module>
     </modules>
 
     <properties>
