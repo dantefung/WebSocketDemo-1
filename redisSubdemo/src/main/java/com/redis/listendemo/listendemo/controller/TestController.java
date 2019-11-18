@@ -14,10 +14,11 @@ public class TestController {
 
     @Autowired
     private StringRedisTemplate stringRedisTemplate;
+
     @RequestMapping(value = "/sendRedisMsg", method = RequestMethod.GET)
     public String sendRedisMsg() {
-
         stringRedisTemplate.convertAndSend("chat",String.valueOf(Math.random()));
         return "success";
     }
+
 }
