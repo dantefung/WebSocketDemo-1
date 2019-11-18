@@ -49,6 +49,7 @@
         <module>websocket-cluster</module>
         <module>spring_boot</module>
         <module>InChat</module>
+        <module>cim</module>
         <module>springboot-study/springboot-netty-mybatis</module>
         <module>springboot-study/springboot-netty-socket</module>
         <module>springboot-study/springboot-netty</module>
