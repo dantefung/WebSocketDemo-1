@@ -48,6 +48,10 @@
         <module>redisSubdemo</module>
         <module>websocket-cluster</module>
         <module>spring_boot</module>
+        <module>InChat</module>
+        <module>springboot-study/springboot-netty-mybatis</module>
+        <module>springboot-study/springboot-netty-socket</module>
+        <module>springboot-study/springboot-netty</module>
     </modules>
 
     <properties>
@@ -232,6 +236,7 @@
             <artifactId>mybatis-generator-maven-plugin</artifactId>
             <version>${org.mybatis.generator}</version>
         </dependency>
+
     </dependencies>
 
     <build>
