@@ -53,6 +53,9 @@
         <module>springboot-study/springboot-netty-mybatis</module>
         <module>springboot-study/springboot-netty-socket</module>
         <module>springboot-study/springboot-netty</module>
+        <module>imooc-muxin-mybatis</module>
+        <module>imooc-muxin-netty</module>
+        <module>imooc-netty-hello</module>
     </modules>
 
     <properties>
