@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.dantefung</groupId>
-    <artifactId>simple-websoket-client</artifactId>
+    <artifactId>simple-websocket-client</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>simple-websoket-client</name>
     <description>Demo project for Spring Boot</description>
