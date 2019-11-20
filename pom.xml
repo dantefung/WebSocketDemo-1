@@ -53,9 +53,15 @@
         <module>springboot-study/springboot-netty-mybatis</module>
         <module>springboot-study/springboot-netty-socket</module>
         <module>springboot-study/springboot-netty</module>
+        <module>springboot-study/springboot-mybatis</module>
+        <module>springboot-study/springboot-bean</module>
+        <module>springboot-study/springboot-actuator/springboot-actuator-admin</module>
+        <module>springboot-study/springboot-actuator/springboot-actuator-client</module>
+        <module>springboot-study/netty-test</module>
         <module>imooc-muxin-mybatis</module>
         <module>imooc-muxin-netty</module>
         <module>imooc-netty-hello</module>
+        <module>heart-netty</module>
     </modules>
 
     <properties>
